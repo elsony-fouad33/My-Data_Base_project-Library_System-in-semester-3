@@ -1,0 +1,1 @@
+The application provides a simple interface that allows users to store, manage, and retrieve data easily, demonstrating how database technologies can be used to build practical and efficient data management systems.
